@@ -1,2 +1,4 @@
 software carpentry is a workshop that introduces basic 
 concepts in data analysis
+
+another comment on software carpentry
